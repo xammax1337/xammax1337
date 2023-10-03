@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xammax1337
 - 👀 I’m interested in webdeveloping
-- 🌱 I’m currently learning C#, SQL
+- 🌱 I’m currently learning C#
 
 <!---
 xammax1337/xammax1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
