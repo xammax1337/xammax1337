@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @xammax1337
-- 👀 I’m interested in webdeveloping
+- 👋 Hi, I’m Max
+- 👀 I’m interested in programming
 - 🌱 I’m currently studying .NET Fullstack
 
 <!---
