@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Max</h1>
 <h3 align="center">Full stack dev</h3>
-<p alignt="center">.NET, SQL, Svelte, JS, Tailwind</p>
+<p align="center">.NET, SQL, Svelte, JS, Tailwind</p>
 
 
 <!-- # 💻 Tech Stack:
